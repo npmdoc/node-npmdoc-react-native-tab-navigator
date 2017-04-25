@@ -1,4 +1,7 @@
-# api documentation for  [react-native-tab-navigator (v0.3.3)](https://github.com/exponentjs/react-native-tab-navigator#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-tab-navigator.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-tab-navigator) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-tab-navigator.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-tab-navigator)
+# npmdoc-react-native-tab-navigator
+
+#### basic api documentation for  [react-native-tab-navigator (v0.3.3)](https://github.com/exponentjs/react-native-tab-navigator#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-tab-navigator.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-tab-navigator) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-tab-navigator.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-tab-navigator)
+
 #### A tab bar that switches between scenes, written in JS for cross-platform support
 
 [![NPM](https://nodei.co/npm/react-native-tab-navigator.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-native-tab-navigator)
@@ -60,7 +63,8 @@
         "url": "git+https://github.com/exponentjs/react-native-tab-navigator.git"
     },
     "scripts": {},
-    "version": "0.3.3"
+    "version": "0.3.3",
+    "bin": {}
 }
 ```
 
